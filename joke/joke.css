@@ -1,0 +1,19 @@
+body {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+background-image: linear-gradient(to top, white red); 
+background-repeat: no-repeat;
+} 
+img {
+    height: 20vh;
+}
+.div_main {
+    margin: 10%; 
+    width: 80%; 
+    height: 500px; 
+    background-color: yellow; 
+
+} 
+.inner_div {margin: 20px; } 
+h2 {
+    margin: 20px; 
+}
