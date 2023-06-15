@@ -1,0 +1,17 @@
+body{
+background-color: blanchedalmond; 
+
+}
+img{
+width:  200px; 
+
+} 
+.explosion{
+    margin-left: 50%; 
+     
+} 
+.right{
+    position: absolute; 
+    top: 20px; 
+    left: 50%; 
+}
